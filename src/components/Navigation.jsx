@@ -103,18 +103,12 @@ const Navigation = () => {
       </Name>
       <SocialMedia>
         <a
-          href="https://www.instagram.com/lekoarts.de"
+          href="https://www.instagram.com/alexwelcing"
           target="_blank"
           rel="noopener noreferrer"
           aria-label="Instagram"
         >
           <FaInstagram />
-        </a>
-        <a href="https://www.behance.net/lekoarts" target="_blank" rel="noopener noreferrer" aria-label="Behance">
-          <FaBehance />
-        </a>
-        <a href="https://dribbble.com/LeKoArts" target="_blank" rel="noopener noreferrer" aria-label="Dribbble">
-          <FaDribbble />
         </a>
       </SocialMedia>
     </Wrapper>
